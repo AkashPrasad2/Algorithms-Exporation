@@ -32,3 +32,12 @@ Trail 25 - 24.63
 ao5: 16.88
 ao12: 18.33
 ao25: 20.54
+
+### Work Sited
+<a href="https://cstimer.net/">CS Timer</a>
+<a href="https://www.youtube.com/watch?v=bCn8TajrPqc">Solving Tutorial 2x2</a>
+<a href="https://www.youtube.com/watch?v=GANnG5a19kg">Solving Tutorial 2x2</a>
+<a href="https://www.youtube.com/watch?v=bCn8TajrPqc">Solving Tutorial 2x2</a>
+<a href="https://www.youtube.com/watch?v=7Ron6MN45LY">Solving Tutorial 3x3</a>
+<a href="https://www.rubiks.com/en-us/how-to-solve-rubiks-cube">Solving Tutorial 3x3</a>
+<a href="https://www.rubiks.com/en-us/how-to-solve-2x2-rubiks-cube">Solving Tutorial 2x2</a>
