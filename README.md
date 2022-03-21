@@ -1,4 +1,4 @@
-# Algorithms-Exporation-Cubing
+# Algorithms-Exploration-Cubing
 Cubing Worklow
 
 **March 7 2022**
